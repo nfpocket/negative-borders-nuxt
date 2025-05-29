@@ -1,8 +1,8 @@
 {
-  "name": "my-module",
+  "name": "negative-borders-nuxt",
   "version": "1.0.0",
-  "description": "My new Nuxt module",
-  "repository": "your-org/my-module",
+  "description": "Negative borders nuxt module",
+  "repository": "@nfpocket/negative-borders-nuxt",
   "license": "MIT",
   "type": "module",
   "exports": {
