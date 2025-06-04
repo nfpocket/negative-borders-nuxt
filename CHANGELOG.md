@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.2.0
+
+[compare changes](https://undefined/undefined/compare/v1.1.3...v1.2.0)
+
+### 🚀 Enhancements
+
+- Refactor directive to consolidate dataset assignments in mounted and updated hooks (7d2dd82)
+
+### ❤️ Contributors
+
+- Norman F <nf@pocket-rocket.io>
+
 ## v1.1.3
 
 [compare changes](https://undefined/undefined/compare/v1.1.2...v1.1.3)
